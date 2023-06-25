@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.4e405494.css",
+    "main.js": "/myportfolio/static/js/main.92e6cf4f.js",
+    "static/media/mypic.png": "/myportfolio/static/media/mypic.2fe741ea6e9092821066.png",
+    "static/media/logo.png": "/myportfolio/static/media/logo.d515be96d97cf8a43047.png",
+    "static/media/Microsoft-sql-server-01.svg": "/myportfolio/static/media/Microsoft-sql-server-01.904a8854d7daddd117033b1905a02ee4.svg",
+    "static/media/React-01.svg": "/myportfolio/static/media/React-01.f3a4ae145ee301a1b56282e1bb24aa44.svg",
+    "static/media/Java-01.svg": "/myportfolio/static/media/Java-01.33c1bbc26f7ea5e2c82f56b2b414faed.svg",
+    "static/media/CSS-3-01.svg": "/myportfolio/static/media/CSS-3-01.8d6bb5c809d699973e4577ae1b4ec8e5.svg",
+    "static/media/HTML-5-01.svg": "/myportfolio/static/media/HTML-5-01.67c374a2b62d4506ad2fcf6b29de0e77.svg",
+    "static/media/Bootstrap-07.svg": "/myportfolio/static/media/Bootstrap-07.a96098b093ec45de501f70afb6021640.svg",
+    "static/media/Tailwindcss-01.svg": "/myportfolio/static/media/Tailwindcss-01.9bb9b50b13b87b1e52e90d7902f44b50.svg",
+    "static/media/JavaScript-01.svg": "/myportfolio/static/media/JavaScript-01.ce881894f4e30c807d31783b651762a7.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.4e405494.css.map": "/myportfolio/static/css/main.4e405494.css.map",
+    "main.92e6cf4f.js.map": "/myportfolio/static/js/main.92e6cf4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e405494.css",
+    "static/js/main.92e6cf4f.js"
+  ]
+}
