@@ -1,7 +1,6 @@
 import React from "react";
 import style from "../css/style.module.css";
-// import mypic from '../images/mypic.png'
-
+  
 const Details = () => {
   return (
     <>
@@ -17,7 +16,7 @@ const Details = () => {
             </p>
             <a
               target="_blank" rel="noreferrer"
-              href="https://drive.google.com/file/d/1E7rpQXgxWRHhc94klNHFl9cDid8c2bcR/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1aNVhl95oZj2L-7NFmBhjDo0jkdNo2R_n/view?usp=drive_link"
             >
               Download Resume
             </a>

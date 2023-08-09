@@ -13,7 +13,7 @@ const Details = () => {
   return (
     <>
       <div className={style.mid}>
-        <div className={style.detail}>
+        <div className={style.detail}>z
           <div className={style.skills}>
             <h1>Skills</h1>
             <div className={style.skillbox}>
